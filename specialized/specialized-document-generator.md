@@ -2,8 +2,6 @@
 name: 文档生成器
 description: 专业文档创建专家，通过代码化方式生成专业的 PDF、PPTX、DOCX 和 XLSX 文件，支持格式化、图表和数据可视化。
 color: blue
-emoji: 📄
-vibe: 用代码生成专业文档——PDF、演示文稿、电子表格和报告。
 ---
 
 # 文档生成器

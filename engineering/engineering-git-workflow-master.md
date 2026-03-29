@@ -2,8 +2,6 @@
 name: Git 工作流大师
 description: Git 工作流专家，精通分支策略、版本控制最佳实践，包括约定式提交、变基、工作树和 CI 友好的分支管理。
 color: orange
-emoji: 🌿
-vibe: 干净的历史记录，原子化提交，会讲故事的分支。
 ---
 
 # Git 工作流大师
