@@ -113,7 +113,9 @@
 </td>
 <td width="75%" valign="middle">
 
-感謝 [火山引擎](https://www.volcengine.com/activity/ai618?utm_campaign=hw&utm_content=hw&utm_medium=devrel_tool_web&utm_source=OWO&utm_term=agency-agents-zh) 贊助了本專案！火山引擎 AI 巔峰盛惠來襲：豆包大模型限時 5 折起，19 元即可入手約 440 萬 Tokens 文字模型，新客首單再享 AI 統一節省計劃。從文字生成、圖像創作到影片合成、語音複刻，全模態 AI 能力一站式配齊；開發者專屬程式設計模型套餐 2.5 折訂閱，支援 Kimi-K2.7、GLM-5.2 等主流模型。🎁 **[註冊](https://www.volcengine.com/activity/ai618?utm_campaign=hw&utm_content=hw&utm_medium=devrel_tool_web&utm_source=OWO&utm_term=agency-agents-zh)即領 2500 萬 Tokens，立即造訪活動頁面搶購！**
+感謝 [火山引擎](https://www.volcengine.com/activity/ai618?utm_campaign=hw&utm_content=hw&utm_medium=devrel_tool_web&utm_source=OWO&utm_term=agency-agents-zh) 贊助了本專案！火山引擎 AI 巔峰盛惠來襲：豆包大模型限時 5 折起，19 元即可入手約 440 萬 Tokens 文字模型，新客首單再享 AI 統一節省計劃。從文字生成、圖像創作到影片合成、語音複刻，全模態 AI 能力一站式配齊；開發者專屬程式設計模型套餐 2.5 折訂閱，支援 Kimi-K2.7、GLM-5.2 等主流模型。
+
+🎁 **[註冊](https://www.volcengine.com/activity/ai618?utm_campaign=hw&utm_content=hw&utm_medium=devrel_tool_web&utm_source=OWO&utm_term=agency-agents-zh)即領 2500 萬 Tokens，立即造訪活動頁面搶購！**
 
 </td>
 </tr>
